@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "Cours/GESTION DE PARC INFORMATIQUE.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Les",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "Cours/GESTION DE PARC INFORMATIQUE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "Cours/GESTION DE PARC INFORMATIQUE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md"
+                "file": "Cours/GESTION DE PARC INFORMATIQUE.md"
               }
             }
           }
@@ -149,12 +149,13 @@
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
     "Cours/Algo/Algo 10-09-2024.md",
+    "Cours/GESTION DE PARC INFORMATIQUE.md",
+    "README.md",
     "fonction.md",
     "Cours/Module A/Séance 1.md",
     "Cours/Module A/Séance 2.md",
     "Veille/Ressources web.md",
     "Cours/Algo",
-    "README.md",
     "Cours/Sans titre 1",
     "Cours/Module A",
     "Veille",
